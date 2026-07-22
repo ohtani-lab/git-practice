@@ -20,8 +20,8 @@ assignees: []
 
 ## 完了条件
 
-- [ ] `config/users/<ユーザー名>.json`がある
-- [ ] `experiments/<ユーザー名>/run01.md`がある
-- [ ] `members/<ユーザー名>.md`がある
+- [ ] `config/users/<学籍番号>.json`がある
+- [ ] `experiments/<学籍番号>/run01.md`がある
+- [ ] `members/<学籍番号>.md`がある
 - [ ] 実行方法がPull Requestに書かれている
 - [ ] Review後に`main`へMergeされている
