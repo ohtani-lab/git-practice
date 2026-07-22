@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.key
+*.pem
+
+# Generated outputs and raw research assets
+build/
+dist/
+outputs/
+data/raw/
+models/
+*.bag
+*.db3
+*.mp4
+*.zip
