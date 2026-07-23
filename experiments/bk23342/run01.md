@@ -26,3 +26,4 @@ Write what the result means and what should be tested next.
 
 閾値を0.25にすると、基準内率は○○%になった。
 次は外れ値が生じたサンプルを確認する。
+0.25のためです。
