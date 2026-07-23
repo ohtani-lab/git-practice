@@ -27,3 +27,4 @@ Write what the result means and what should be tested next.
 
 閾値を0.30に設定したところ、閾値内率は75%であった。
 最大誤差が0.50であったため、誤差が大きいサンプルを確認したい。
+俺が決めたから
